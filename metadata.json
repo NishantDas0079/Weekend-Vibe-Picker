@@ -1,0 +1,8 @@
+{
+  "name": "Reelief",
+  "description": "A stunning, cinematic weekend curation engine that recalibrates your mind through precision entertainment recommendations based on your exhaustion levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
