@@ -1,8 +1,8 @@
 # REELIEF
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Built With](https://img.shields.io/badge/Built%20With-Google%20AI%20Studios-4285F4?style=flat-square&logo=google&logoColor=white)
-![Powered By](https://img.shields.io/badge/Powered%20By-Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg) 
+![Built With: Google AI Studios](https://img.shields.io/badge/Built%20With-Google%20AI%20Studios-4285F4?style=flat-square&logo=google&logoColor=white) 
+![Powered By: Codex](https://img.shields.io/badge/Powered%20By-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 
 ## Overview
 
