@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# REELIEF
 
-# Run and deploy your AI Studio app
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![Built With](https://img.shields.io/badge/Built%20With-Google%20AI%20Studios-4285F4?style=flat-square&logo=google&logoColor=white)
+![Powered By](https://img.shields.io/badge/Powered%20By-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 
-This contains everything you need to run your app locally.
+## Overview
 
-View your app in AI Studio: https://ai.studio/apps/026028ed-6aac-42a7-b494-0da065d8b533
+REELIEF is an AI-powered weekend watch companion that suggests the right movies, web series, cartoons, and thrillers based on your mood, routine, exhaustion level, and preferred vibe.
 
-## Run Locally
+The app is designed to help students and working professionals relax, recharge, and quickly find something worth watching without endless scrolling.
 
-**Prerequisites:**  Node.js
+## What It Does
 
+- Understands the user’s mood and mental state.
+- Detects whether the user needs comfort, fun, thrill, lightness, or emotional balance.
+- Suggests Bollywood and Hollywood content only.
+- Prioritizes recent and trending picks from the last 1–2 years.
+- Gives short explanations for why each recommendation fits the user.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Tech Stack
+
+- Google AI Studios
+- Codex
+- AI recommendation agent workflow
+- Modern web UI
+
+## Codex
+
+Codex played an important role in this project by helping with code generation, implementation support, and development flow.
+
+### Codex Approach
+Codex works as a coding assistant that can understand natural language instructions and translate them into practical implementation. It is useful for building features faster, structuring code, and supporting iteration during development.
+
+### Codex Use Cases in This Project
+- Generating and refining application code.
+- Assisting with UI and logic implementation.
+- Supporting feature development for the recommendation workflow.
+- Helping structure and improve the overall app experience.
+
+## License
+
+This project is licensed under the [Apache License 2.0](./LICENSE).
